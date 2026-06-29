@@ -1,2 +1,2 @@
 # First_Project
-Learn Git and Git Hub
+Learn Git and Git
